@@ -168,7 +168,7 @@ body {
 
 /* Шапка */
 header {
-    background-color: #0056b3;
+    background-color: #333;
     color: white;
     padding: 1.5rem 0;
     text-align: center;
@@ -253,7 +253,7 @@ ul li {
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #0056b3;
+    background-color: #333;
     color: white;
     margin-top: 2rem;
 }
@@ -265,7 +265,7 @@ h1, h2 {
 
 h2 {
     font-size: 1.8rem;
-    color: #0056b3;
+    color: #333;
 }
 
 p {
